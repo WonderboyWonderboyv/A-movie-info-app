@@ -1,0 +1,14 @@
+#movies img, #movie img{
+    width:100%;
+}
+
+#movie .col-md-3 .well{
+    height: 390px;
+}
+
+#movie .col-md-3 img{
+    height: 240px;
+}
+#movie .col-md-3 card{
+    padding: 10px;
+}
